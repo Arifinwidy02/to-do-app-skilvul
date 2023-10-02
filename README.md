@@ -1,1 +1,2 @@
-# to-do-app-skilvul
+# to-do-app-skilvul-server
+this is for deploy only
